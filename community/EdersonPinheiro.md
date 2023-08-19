@@ -21,9 +21,6 @@
   
   ##
  
+ 
 <div>
-<<<<<<< HEAD
   <a href="https://www.linkedin.com/in/ederson-pinheiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-=======
-  <a href="https://www.linkedin.com/in/ederson-pinheiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
->>>>>>> 5eea6bf3970775615c39b282816049d4f2f721f5
